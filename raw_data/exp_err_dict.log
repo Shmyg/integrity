@@ -1,0 +1,13 @@
+
+Connected to: Oracle Database 11g Enterprise Edition Release 11.2.0.2.0 - 64bit Production
+With the Partitioning, Automatic Storage Management, OLAP, Data Mining
+and Real Application Testing options
+Export done in CL8MSWIN1251 character set and AL16UTF16 NCHAR character set
+Note: grants on tables/views/sequences/roles will not be exported
+Note: indexes on tables will not be exported
+Note: constraints on tables will not be exported
+
+About to export specified tables via Conventional Path ...
+. . exporting table                  SW_ERROR_DICT
+                                                           16 rows exported
+Export terminated successfully without warnings.

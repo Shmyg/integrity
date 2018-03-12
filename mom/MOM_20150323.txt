@@ -1,0 +1,6 @@
+1. Add table CHARGE - columns to be verified against the interface. (id, billing_term_id, charge_value_id, charge_value_amt)
+2. Every billing term cah have many CHARGE terms.
+3. Every feature can have many BILLING terms.
+4. Remove SQL function from BILLING_TERM.
+5. Add mapping table FEATURE -> BILLING_TERM
+6. Add billing_term_id to ORDER to make it possible to order features with different charging schemes.

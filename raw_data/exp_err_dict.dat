@@ -1,0 +1,9 @@
+FILE="C:\Users\oleg.savchenko\Desktop\ESB\err_dict.DMP"
+LOG="C:\Users\oleg.savchenko\Desktop\ESB\exp_err_dict.log"
+TABLES=('PPS_SW.SW_ERROR_DICT')
+INDEXES=N
+TRIGGERS=N
+CONSTRAINTS=N
+GRANTS=N
+CONSISTENT=Y
+FEEDBACK=1000

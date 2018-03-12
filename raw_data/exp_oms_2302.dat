@@ -1,0 +1,9 @@
+FILE="C:\Users\oleg.savchenko\Desktop\ESB\oms_2302.DMP"
+LOG="C:\Users\oleg.savchenko\Desktop\ESB\exp_oms_2302.log"
+TABLES=('OMS.OMS_TARGET_TYPES', 'OMS.SC_FEATURE_TYPE')
+INDEXES=N
+TRIGGERS=N
+CONSTRAINTS=N
+GRANTS=N
+CONSISTENT=Y
+FEEDBACK=1000

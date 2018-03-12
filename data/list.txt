@@ -1,0 +1,17 @@
+dict_language.ctl
+conf_version.ctl
+conf_activation_term.ctl
+conf_billing_term.ctl
+dict_action_type.ctl
+dict_error_type.ctl
+dict_error.ctl
+dict_request_type.ctl
+dict_customer_type.ctl
+dict_subscriber_segment.ctl
+dict_flow_type.ctl
+dict_order_status.ctl
+conf_lock.ctl
+dict_operation.ctl
+dict_feature_type.ctl
+mig_action_parameter.ctl
+mig_feature_relation.ctl
